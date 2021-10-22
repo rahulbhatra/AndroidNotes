@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="file_name">Note.json</string>
+    <string name="no_file">No Note.json File Exist</string>
+    <string name="create_file">Created New File Note.json</string>
+    <string name="saved">Note.json File is Saved</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="save">save</string>
+    <string name="info">info</string>
+    <string name="create">create</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="copyright">© Oct 3 2021, Rahul Sharma</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
